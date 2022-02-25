@@ -15,8 +15,8 @@ The game was made in python, converted to .exe using pyinstaller
 so python needs folders for the files. The installer installs all
 components easily.
 # Updates
-v1.0.0
-First public release
+v0.9.0-beta
+First public beta release - Open for testing
 # About
 Made by nomad.
 The game was an fun experiment for a clicker
